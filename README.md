@@ -42,7 +42,7 @@ Using the simple factory pattern offered the highest ratio of functionality to c
 # UML Diagram
 ![Diagram of workflow](uml/UML.png)
 
-
+Note: Other classes are stacked under the VipEmail, other email classes include NewCustomerEmail, BusinessEmail, ... 
 
 # Maven Commands
 
