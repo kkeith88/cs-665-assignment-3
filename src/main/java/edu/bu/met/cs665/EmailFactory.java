@@ -12,6 +12,11 @@ public class EmailFactory {
     private EmailFactory() {
         // Private constructor to prevent instantiation
     }
+    /**
+     * Creates an email object based on customer type
+     * @param type
+     * @return the email object
+     */
     public static Email createEmail(CustomerType type){
         switch (type) {
             case BUSINESS:
