@@ -12,6 +12,7 @@ public class EmailFactory {
     private EmailFactory() {
         // Private constructor to prevent instantiation
     }
+    
     /**
      * Creates an email object based on customer type
      * @param type

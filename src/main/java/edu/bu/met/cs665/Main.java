@@ -13,14 +13,12 @@ package edu.bu.met.cs665;
  * This is the Main class.
  */
 public class Main {
-
-
   public static void main(String[] args) {
 
     /**
      * Create an instance of each of the email types
      */
-    
+
     Email businessEmail = EmailFactory.createEmail(CustomerType.BUSINESS);
     System.out.println("\nBusiness Email:\n");
     System.out.println(businessEmail.generateEmail());

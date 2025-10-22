@@ -18,6 +18,5 @@ public class NewCustomerEmail implements Email {
     public String generateEmail() {
         return "Dear New Customer,\nWelcome to our community! We're excited to have you with us.\n"
              + "Sincerely,\nThe Company Team";
-    }
-    
+    }   
 }

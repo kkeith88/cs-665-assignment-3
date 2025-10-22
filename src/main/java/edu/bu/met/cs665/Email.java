@@ -9,6 +9,7 @@
 package edu.bu.met.cs665;
 
 public interface Email {
+    
     /**
      * Generates an email template
      * @return the email string
