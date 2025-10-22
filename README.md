@@ -11,7 +11,7 @@
 For assignment 3 we are tasked with creating a solution for businesses to use to streamline their emails to different clients. We need to be able to generate different template of emails based on the customer types.
 
 # GitHub Repository Link:
-https://github.com/kkeith88/cs-665-assignment-2
+https://github.com/kkeith88/cs-665-assignment-3
 
 # Implementation Description 
 
