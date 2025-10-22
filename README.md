@@ -8,8 +8,6 @@
 
 # Assignment Overview
 
-For assignment 2 we are tasked with creating the skeleton of a delivery app, connecting shops and drivers. The core functionality from this assignment is the ability to connnect shops with drivers as well as send notifications out to driver when an order is placed.
-
 For assignment 3 we are tasked with creating a solution for businesses to use to streamline their emails to different clients. We need to be able to generate different template of emails based on the customer types.
 
 # GitHub Repository Link:
